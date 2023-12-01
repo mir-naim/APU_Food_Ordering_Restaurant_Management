@@ -1,0 +1,100 @@
+[
+    {
+        "name":"Lorem20 Lorem20 ",
+        "price":"45.89",
+        "description":"Ulta Lorem20",
+        "ratings":4.5,
+        "images":[{
+            "public_id": "products/tzfrssss",
+            "url":"hhshhshsh"
+        }],
+        "category":"Foods",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+    },
+    {
+        "name":"Lorem10 Lorem10 ",
+        "price":"45.89",
+        "description":"Ulta Lorem20",
+        "ratings":4.5,
+        "images":[{
+            "public_id": "products/tzfrssss",
+            "url":"hhshhshsh"
+        }],
+        "category":"Foods",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+    },
+    {
+        "name":"Lorem20 Lorem20 ",
+        "price":"45.89",
+        "description":"Ulta Lorem20",
+        "ratings":4.5,
+        "images":[{
+            "public_id": "products/tzfrssss",
+            "url":"hhshhshsh"
+        }],
+        "category":"Foods",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+    },
+    {
+        "name":"Lorem20 Lorem20 ",
+        "price":"45.89",
+        "description":"Ulta Lorem20",
+        "ratings":4.5,
+        "images":[{
+            "public_id": "products/tzfrssss",
+            "url":"hhshhshsh"
+        }],
+        "category":"Foods",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+    },
+    {
+        "name":"Lorem20 Lorem20 ",
+        "price":"45.89",
+        "description":"Ulta Lorem20",
+        "ratings":4.5,
+        "images":[{
+            "public_id": "products/tzfrssss",
+            "url":"hhshhshsh"
+        }],
+        "category":"Food",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+    },
+    {
+        "name":"Lorem20 Lorem20 ",
+        "price":"45.89",
+        "description":"Ulta Lorem20",
+        "ratings":4.5,
+        "images":[{
+            "public_id": "products/tzfrssss",
+            "url":"hhshhshsh"
+        }],
+        "category":"Food",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+    }
+
+
+]
